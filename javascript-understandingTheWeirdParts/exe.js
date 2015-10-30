@@ -9,3 +9,5 @@ function a() {
 
 var myVar = 1;
 a();
+
+var x = 3;
