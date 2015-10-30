@@ -21,3 +21,8 @@ console.log('finished execution');
 //the click console.logs the click last......it's explained in the video. 
 // the page does everything in it's stack....and then looks to the EVENT QUEUE to see 
  // if anything happened....a click happenend...so it tells us that after
+
+ function theres(element) {
+ 	var bee = a;
+
+ }
