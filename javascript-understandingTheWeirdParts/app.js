@@ -1,9 +1,11 @@
-var a;
-console.log(a);
+function b() {
+	var myVar;
+}
 
-if (a === undefined) {
-	console.log("a is undefined!");
+function a() {
+	var myVar = 2;
+	b();
 }
-else {
-	console.log("a is defined");
-}
+
+var myVar = 1;
+a();
